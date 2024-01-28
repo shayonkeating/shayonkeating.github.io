@@ -51,7 +51,7 @@
 </section>
 
 <section class="layout-md py-1">
-  <h2 class='heading2'>Professional Experience</h2>
+  <h2 class="heading2">Professional Experience</h2>
 
   <Workplace
     title="Principal Associate Scientist"
@@ -60,21 +60,24 @@
     dates="April 2023 – Current"
     location="Boston, MA"
   >
-  <li>
-    Strand Therapeutics is an early stage genetic medicine company focused on delivering
-    mRNA circuits to the body. I worked on the delivery side of the company.
-  </li>
-  <li>
-    Designed and built a lipid nano particle (LNP) databse to track LNPs being developed.
-    Utilized benchlings API to access unstructured data and build an LNP database pipeline that 
-    makes API calls daily for new entries, extracts the necessary data, transforms the data into 
-    a readable format, and loads into a SQL database.
-  </li>
-  <li>
-    Created the frontend, including a user dashboard, analytics for interacting with the LNP database.
-    including a LNP scorecard that shows the needed information for the LNP. Introduced React.js for 
-    user interaction to the company.
-  </li>
+    <li>
+      Strand Therapeutics is an early stage genetic medicine company focused on
+      delivering mRNA circuits to the body. I worked on the delivery side of the
+      company.
+    </li>
+    <li>
+      Designed and built a lipid nano particle (LNP) databse to track LNPs being
+      developed. Utilized benchlings API to access unstructured data and build
+      an LNP database pipeline that makes API calls daily for new entries,
+      extracts the necessary data, transforms the data into a readable format,
+      and loads into a SQL database.
+    </li>
+    <li>
+      Created the frontend, including a user dashboard, analytics for
+      interacting with the LNP database. including a LNP scorecard that shows
+      the needed information for the LNP. Introduced React.js for user
+      interaction to the company.
+    </li>
   </Workplace>
 
   <Workplace
@@ -84,20 +87,23 @@
     dates="January 2022 – April 2023"
     location="San Diego, CA"
   >
-  <li>
-    Poseida Therapeutics is clinical stage biopharmaceutical company focused on developing gene and cell 
-    therapies using a non viral delivery platform.
-  </li>
-  <li>
-    Developed and automated data analysis for a high throughput cell assay using pandas, scikit-learn, and PostGreSQL to 
-    determine highly effective chemically distinct excipients for lipid nanoparticle formulations from 
-    a small molecule library consisting of 10000+ chemicals.
-  </li>
-  <li>
-    Developed a LNP targeting Hemopoietic Stem Cells utilizing different statistical models through Design of Experiments (DOE) 
-    using SVEM models; matplotlib, scikit-learn, and TensorFlow regressions and normalizations to determine best formulation. 
-    Optimized lead formulation five-fold through this methodology. 
-  </li>
+    <li>
+      Poseida Therapeutics is clinical stage biopharmaceutical company focused
+      on developing gene and cell therapies using a non viral delivery platform.
+    </li>
+    <li>
+      Developed and automated data analysis for a high throughput cell assay
+      using pandas, scikit-learn, and PostGreSQL to determine highly effective
+      chemically distinct excipients for lipid nanoparticle formulations from a
+      small molecule library consisting of 10000+ chemicals.
+    </li>
+    <li>
+      Developed a LNP targeting Hemopoietic Stem Cells utilizing different
+      statistical models through Design of Experiments (DOE) using SVEM models;
+      matplotlib, scikit-learn, and TensorFlow regressions and normalizations to
+      determine best formulation. Optimized lead formulation five-fold through
+      this methodology.
+    </li>
   </Workplace>
 
   <Workplace
@@ -107,26 +113,36 @@
     dates="January 2020 – January 2022"
     location="Atlanta, GA"
   >
-  <li>
-    Guide Therapeutics was a seed stage startup focused on in-vivo barcoding of mRNA in order to determine 
-    highly effective lipid nano particles. This company was bought by Beam Therapeutics in February 2021.
-  </li>
-  <li>
-    I conducted analysis of in-vivo flow cytometry experiments using Flowjo and Python. Utilized pandas and 
-    R to preprocess and clean flow cytometry data for analysis automation, then used TSNE and UMAP for biodistribution 
-    of lipid-nanoparticles in mouse/rat/non-human primate tissue looking at immune cell distribution.
-  </li>
+    <li>
+      Guide Therapeutics was a seed stage startup focused on in-vivo barcoding
+      of mRNA in order to determine highly effective lipid nano particles. This
+      company was bought by Beam Therapeutics in February 2021.
+    </li>
+    <li>
+      I conducted analysis of in-vivo flow cytometry experiments using Flowjo
+      and Python. Utilized pandas and R to preprocess and clean flow cytometry
+      data for analysis automation, then used TSNE and UMAP for biodistribution
+      of lipid-nanoparticles in mouse/rat/non-human primate tissue looking at
+      immune cell distribution.
+    </li>
   </Workplace>
-
 </section>
 
 <section class="layout-md py-1">
   <h2 class="heading2">Technical Skills</h2>
   <ul>
-    <li><b>Languages:</b> Python, R, SQL, Linux/Bash, Javascript, Typescript, CSS, HTML</li>
-    <li><b>Libraries:</b> pandas, matplotlib, numpy, pytorch, tensorflow, scikit-learn</li>
+    <li>
+      <b>Languages:</b> Python, R, SQL, Linux/Bash, Javascript, Typescript, CSS,
+      HTML
+    </li>
+    <li>
+      <b>Libraries:</b> pandas, matplotlib, numpy, pytorch, tensorflow, scikit-learn
+    </li>
     <li><b>Frameworks:</b> react, node.js, svelte kit, flask</li>
-    <li><b>Developer Tools:</b> Git, Docker, Google Cloud Platform, Visual Studio, PyCharm, Jupyter Notebook</li>
+    <li>
+      <b>Developer Tools:</b> Git, Docker, Google Cloud Platform, Visual Studio,
+      PyCharm, Jupyter Notebook
+    </li>
   </ul>
 </section>
 

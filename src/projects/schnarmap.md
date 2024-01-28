@@ -7,4 +7,3 @@ lead: Find the schnar, hit the pow
 ---
 
 Interactive map for hitting the pow
-

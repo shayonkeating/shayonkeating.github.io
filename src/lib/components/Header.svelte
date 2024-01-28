@@ -31,7 +31,7 @@
       </span>
     {/if}
   </h1>
-  
+
   <nav>
     {#each links as link (link)}
       <a

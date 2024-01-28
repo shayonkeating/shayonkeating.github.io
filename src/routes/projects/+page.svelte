@@ -59,17 +59,14 @@
   let sortOrder: "date" | "stars" = "date";
 </script>
 
-<Seo
-  title="Shayon Keating – Projects"
-  description="Open source projects"
-/>
+<Seo title="Shayon Keating – Projects" description="Open source projects" />
 
 <section class="layout-md py-12">
   <h2 class="heading2">Open Source Work</h2>
 
   <p class="text-lg mb-4">
-    Below is some of the work that I am proud of and want to show off. Feel free to interact
-    with it below.
+    Below is some of the work that I am proud of and want to show off. Feel free
+    to interact with it below.
   </p>
 </section>
 

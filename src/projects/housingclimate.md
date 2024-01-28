@@ -8,4 +8,3 @@ lead: blah blah blah
 
 SQL database and analysis for determining where to live with climate change
 cause she aint going anywhere
-
