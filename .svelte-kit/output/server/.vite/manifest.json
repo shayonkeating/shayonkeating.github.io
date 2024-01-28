@@ -1,0 +1,150 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "imports": [
+      "_internal.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/server/internal.js"
+  },
+  "_Icon.js": {
+    "file": "chunks/Icon.js",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "_Seo.js": {
+    "file": "chunks/Seo.js",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "_index.js": {
+    "file": "chunks/index.js"
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "_stores.js": {
+    "file": "chunks/stores.js",
+    "imports": [
+      "_index.js"
+    ]
+  },
+  "node_modules/@fontsource/newsreader/files/newsreader-all-400-italic.woff": {
+    "file": "_app/immutable/assets/newsreader-all-400-italic.b234bc8e.woff",
+    "src": "node_modules/@fontsource/newsreader/files/newsreader-all-400-italic.woff"
+  },
+  "node_modules/@fontsource/newsreader/files/newsreader-latin-400-italic.woff2": {
+    "file": "_app/immutable/assets/newsreader-latin-400-italic.c935023f.woff2",
+    "src": "node_modules/@fontsource/newsreader/files/newsreader-latin-400-italic.woff2"
+  },
+  "node_modules/@fontsource/newsreader/files/newsreader-latin-ext-400-italic.woff2": {
+    "file": "_app/immutable/assets/newsreader-latin-ext-400-italic.5bf368d2.woff2",
+    "src": "node_modules/@fontsource/newsreader/files/newsreader-latin-ext-400-italic.woff2"
+  },
+  "node_modules/@fontsource/newsreader/files/newsreader-vietnamese-400-italic.woff2": {
+    "file": "_app/immutable/assets/newsreader-vietnamese-400-italic.15c2d816.woff2",
+    "src": "node_modules/@fontsource/newsreader/files/newsreader-vietnamese-400-italic.woff2"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "imports": [
+      "_internal.js",
+      "_index.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js"
+  },
+  "src/routes/+error.svelte": {
+    "file": "entries/pages/_error.svelte.js",
+    "imports": [
+      "_index.js",
+      "_stores.js",
+      "_Icon.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+error.svelte"
+  },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout.cb6cb89b.css",
+    "src": "src/routes/+layout.css"
+  },
+  "src/routes/+layout.svelte": {
+    "assets": [
+      "_app/immutable/assets/newsreader-vietnamese-400-italic.15c2d816.woff2",
+      "_app/immutable/assets/newsreader-all-400-italic.b234bc8e.woff",
+      "_app/immutable/assets/newsreader-latin-ext-400-italic.5bf368d2.woff2",
+      "_app/immutable/assets/newsreader-latin-400-italic.c935023f.woff2"
+    ],
+    "css": [
+      "_app/immutable/assets/_layout.cb6cb89b.css"
+    ],
+    "file": "entries/pages/_layout.svelte.js",
+    "imports": [
+      "_index.js",
+      "_stores.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+layout.svelte"
+  },
+  "src/routes/+layout.ts": {
+    "file": "entries/pages/_layout.ts.js",
+    "isEntry": true,
+    "src": "src/routes/+layout.ts"
+  },
+  "src/routes/+page.css": {
+    "file": "_app/immutable/assets/_page.3fb65fdb.css",
+    "src": "src/routes/+page.css"
+  },
+  "src/routes/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.3fb65fdb.css"
+    ],
+    "file": "entries/pages/_page.svelte.js",
+    "imports": [
+      "_index.js",
+      "_Icon.js",
+      "_Seo.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+page.svelte"
+  },
+  "src/routes/projects/+page.css": {
+    "file": "_app/immutable/assets/_page.ae31a64c.css",
+    "src": "src/routes/projects/+page.css"
+  },
+  "src/routes/projects/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.ae31a64c.css"
+    ],
+    "file": "entries/pages/projects/_page.svelte.js",
+    "imports": [
+      "_index.js",
+      "_stores.js",
+      "_Icon.js",
+      "_Seo.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/projects/+page.svelte"
+  },
+  "src/routes/resume/+page.css": {
+    "file": "_app/immutable/assets/_page.badbca58.css",
+    "src": "src/routes/resume/+page.css"
+  },
+  "src/routes/resume/+page.svelte": {
+    "css": [
+      "_app/immutable/assets/_page.badbca58.css"
+    ],
+    "file": "entries/pages/resume/_page.svelte.js",
+    "imports": [
+      "_index.js",
+      "_Seo.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/resume/+page.svelte"
+  }
+}
