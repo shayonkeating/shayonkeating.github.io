@@ -8,8 +8,8 @@ const config = {
   kit: {
     adapter: adapter(),
     prerender: {
-      handleMissingId: 'ignore'
-    }
+      handleMissingId: "ignore",
+    },
   },
 };
 
