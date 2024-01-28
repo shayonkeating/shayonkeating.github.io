@@ -1,7 +1,7 @@
 ---
 title: Climate Change x Housing
 date: 2023-08-01
-repo: shayonkeating/climatechange
+repo: shayonkeating/climatechange_housing
 topics: ["Python", "SQL", "React.js", "Jupyter Notebooks"]
 lead: blah blah blah
 ---
