@@ -24,7 +24,7 @@
       name: "Personal Website",
       href: "/projects#personal_website",
       desc: "Personal website hosted on github pages",
-    }
+    },
   ];
 </script>
 
