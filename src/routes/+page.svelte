@@ -33,7 +33,7 @@
   id="eric-is"
 >
   <span class="g">is a</span> scientist<span class="g">,</span>
-  engineer<span class="g">, and</span><br />
+  engineer<span class="g">, and</span>
   researcher<span class="g">.</span>
 </p>
 
