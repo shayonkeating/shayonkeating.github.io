@@ -20,6 +20,11 @@
       desc: "Finding the right LNP can be tricky, but its not",
       aside: "Built for the Strand Therapeutics LNP discovery Team.",
     },
+    {
+      name: "Personal Website",
+      href: "/projects#personal_website",
+      desc: "Personal website hosted on github pages",
+    }
   ];
 </script>
 
