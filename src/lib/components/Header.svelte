@@ -22,7 +22,7 @@
   data-sveltekit-noscroll
   data-sveltekit-preload-code="eager"
 >
-  <h1 class="font-bold text-black text-3xl mb-10">
+  <h1 class="font-bold text-black text-3xl mb-16">
     <a href="/">Shayon Keating</a>
     {#if pageTitle}
       <span class="page-title">
