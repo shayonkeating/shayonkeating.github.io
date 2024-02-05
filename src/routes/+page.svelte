@@ -17,7 +17,8 @@
     {
       name: "Personal Website",
       href: "/projects#personal_website",
-      desc: "Personal website hosted on github pages. Steve Jobs, you inspired me.",
+      desc: "Personal website hosted on github pages."
+      aside: "Steve Jobs, you inspired me.",
     },
   ];
 </script>
