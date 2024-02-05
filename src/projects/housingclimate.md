@@ -1,10 +1,14 @@
 ---
-title: Climate Change x Housing
-date: 2023-08-01
+title: RltyChk
+date: 2024-02-01
 repo: shayonkeating/climatechange_housing
 topics: ["Python", "SQL", "React.js", "Jupyter Notebooks"]
-lead: blah blah blah
+lead: How is climate change going to affect buying a home in the future? Let's build the liveability index!
+image: climate.png
 ---
 
-SQL database and analysis for determining where to live with climate change
-cause she aint going anywhere
+Reality Check (stylized RltyChk) provides a model for investigating climate change on the county level and answers the big question on everyones mind as we enter this brave new world:
+
+How is climate change going to affect buying a home in the future?
+
+Links: [Github](https://github.com/shayonkeating/rltychk)

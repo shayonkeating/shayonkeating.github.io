@@ -51,13 +51,30 @@
 </section>
 
 <section class="layout-md py-1">
+  <h2 class="heading2">Technical Skills</h2>
+  <ul>
+    <li>
+      <b>Languages:</b> Python, R, SQL, Linux/Bash, Javascript, Typescript, CSS,
+      HTML
+    </li>
+    <li>
+      <b>Libraries:</b> pandas, matplotlib, numpy, pytorch, tensorflow, scikit-learn
+    </li>
+    <li><b>Frameworks:</b> react, node.js, svelte kit, flask</li>
+    <li>
+      <b>Developer Tools:</b> Git, Docker, Visual Studio, Jupyter Notebook
+    </li>
+  </ul>
+</section>
+
+<section class="layout-md py-12">
   <h2 class="heading2">Professional Experience</h2>
 
   <Workplace
     title="Principal Associate Scientist"
     company="Strand Therapeutics"
     url="https://strandtx.com"
-    dates="April 2023 – Current"
+    dates="April 2023 – February 2024"
     location="Boston, MA"
   >
     <li>
@@ -66,17 +83,16 @@
       company.
     </li>
     <li>
-      Designed and built a lipid nano particle (LNP) databse to track LNPs being
-      developed. Utilized benchlings API to access unstructured data and build
-      an LNP database pipeline that makes API calls daily for new entries,
-      extracts the necessary data, transforms the data into a readable format,
-      and loads into a SQL database.
+      Enhanced R&D data management by creating a nanoparticle tracking database, 
+      automated data retrieval using benchling's API, and set up ETL processes to store data in SQL. 
+      Conducted analytics using Matplotlib and Pandas, and introduced React.js 
+      for internal website development, improving communication between R&D and leadership.
     </li>
     <li>
-      Created the frontend, including a user dashboard, analytics for
-      interacting with the LNP database. including a LNP scorecard that shows
-      the needed information for the LNP. Introduced React.js for user
-      interaction to the company.
+      Automated nanoparticle assays with robotic liquid handlers, collaborated with 
+      engineers on the script, and integrated data into Benchling and Azure Datalake 
+      using Python. Reduced R&D time from 10 to 2 hours per week and eliminated data 
+      quality and integrity issues.
     </li>
   </Workplace>
 
@@ -92,17 +108,16 @@
       on developing gene and cell therapies using a non viral delivery platform.
     </li>
     <li>
-      Developed and automated data analysis for a high throughput cell assay
-      using pandas, scikit-learn, and PostGreSQL to determine highly effective
-      chemically distinct excipients for lipid nanoparticle formulations from a
-      small molecule library consisting of 10000+ chemicals.
+      Lead screening efforts of a 10,000+ chemical library by automating data analysis for a 
+      high-throughput multi-dimensional assay. Utilized pandas, scikit-learn, matplotlib, 
+      and PostGreSQL for data processing and developed a Tableau dashboard connected to 
+      the SQL database. Achieved a 50% project time reduction through this automated data pipeline.
     </li>
     <li>
-      Developed a LNP targeting Hemopoietic Stem Cells utilizing different
-      statistical models through Design of Experiments (DOE) using SVEM models;
-      matplotlib, scikit-learn, and TensorFlow regressions and normalizations to
-      determine best formulation. Optimized lead formulation five-fold through
-      this methodology.
+      Enhanced nanoparticle targeting for specific stem cells by applying gaussian models in 
+      Design of Experiments (DOE). Utilized matplotlib, scikit-learn, pyDOE, and PyTorch for 
+      regression and normalization to identify the most effective formulation. Achieved a five-fold 
+      improvement in lead nanoparticle efficacy.
     </li>
   </Workplace>
 
@@ -119,32 +134,20 @@
       company was bought by Beam Therapeutics in February 2021.
     </li>
     <li>
-      I conducted analysis of in-vivo flow cytometry experiments using Flowjo
-      and Python. Utilized pandas and R to preprocess and clean flow cytometry
-      data for analysis automation, then used TSNE and UMAP for biodistribution
-      of lipid-nanoparticles in mouse/rat/non-human primate tissue looking at
-      immune cell distribution.
+      Analysis of in vivo experiments using Flowjo and Python. Utilized pandas and R to 
+      preprocess and clean high dimensional data for analysis automation, then used TSNE and 
+      UMAP for biodistribution in mouse/rat/non-human primate tissue looking at immune cell distribution. 
+      Allowed for automated analysis using pandas and matplotlib. Reducing time spent on 
+      analysis from 6-8 hours to 1.
+    </li>
+    <li>
+      Enabled successful transfer of high throughput lipid nanoparticle screening platform from 
+      GuideTx to BeamTx through acquisition.
     </li>
   </Workplace>
 </section>
 
-<section class="layout-md py-1">
-  <h2 class="heading2">Technical Skills</h2>
-  <ul>
-    <li>
-      <b>Languages:</b> Python, R, SQL, Linux/Bash, Javascript, Typescript, CSS,
-      HTML
-    </li>
-    <li>
-      <b>Libraries:</b> pandas, matplotlib, numpy, pytorch, tensorflow, scikit-learn
-    </li>
-    <li><b>Frameworks:</b> react, node.js, svelte kit, flask</li>
-    <li>
-      <b>Developer Tools:</b> Git, Docker, Google Cloud Platform, Visual Studio,
-      PyCharm, Jupyter Notebook
-    </li>
-  </ul>
-</section>
+
 
 <style lang="postcss">
   b {
