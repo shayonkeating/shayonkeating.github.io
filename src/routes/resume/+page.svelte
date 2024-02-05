@@ -83,16 +83,17 @@
       company.
     </li>
     <li>
-      Enhanced R&D data management by creating a nanoparticle tracking database, 
-      automated data retrieval using benchling's API, and set up ETL processes to store data in SQL. 
-      Conducted analytics using Matplotlib and Pandas, and introduced React.js 
-      for internal website development, improving communication between R&D and leadership.
+      Enhanced R&D data management by creating a nanoparticle tracking database,
+      automated data retrieval using benchling's API, and set up ETL processes
+      to store data in SQL. Conducted analytics using Matplotlib and Pandas, and
+      introduced React.js for internal website development, improving
+      communication between R&D and leadership.
     </li>
     <li>
-      Automated nanoparticle assays with robotic liquid handlers, collaborated with 
-      engineers on the script, and integrated data into Benchling and Azure Datalake 
-      using Python. Reduced R&D time from 10 to 2 hours per week and eliminated data 
-      quality and integrity issues.
+      Automated nanoparticle assays with robotic liquid handlers, collaborated
+      with engineers on the script, and integrated data into Benchling and Azure
+      Datalake using Python. Reduced R&D time from 10 to 2 hours per week and
+      eliminated data quality and integrity issues.
     </li>
   </Workplace>
 
@@ -108,16 +109,18 @@
       on developing gene and cell therapies using a non viral delivery platform.
     </li>
     <li>
-      Lead screening efforts of a 10,000+ chemical library by automating data analysis for a 
-      high-throughput multi-dimensional assay. Utilized pandas, scikit-learn, matplotlib, 
-      and PostGreSQL for data processing and developed a Tableau dashboard connected to 
-      the SQL database. Achieved a 50% project time reduction through this automated data pipeline.
+      Lead screening efforts of a 10,000+ chemical library by automating data
+      analysis for a high-throughput multi-dimensional assay. Utilized pandas,
+      scikit-learn, matplotlib, and PostGreSQL for data processing and developed
+      a Tableau dashboard connected to the SQL database. Achieved a 50% project
+      time reduction through this automated data pipeline.
     </li>
     <li>
-      Enhanced nanoparticle targeting for specific stem cells by applying gaussian models in 
-      Design of Experiments (DOE). Utilized matplotlib, scikit-learn, pyDOE, and PyTorch for 
-      regression and normalization to identify the most effective formulation. Achieved a five-fold 
-      improvement in lead nanoparticle efficacy.
+      Enhanced nanoparticle targeting for specific stem cells by applying
+      gaussian models in Design of Experiments (DOE). Utilized matplotlib,
+      scikit-learn, pyDOE, and PyTorch for regression and normalization to
+      identify the most effective formulation. Achieved a five-fold improvement
+      in lead nanoparticle efficacy.
     </li>
   </Workplace>
 
@@ -134,20 +137,19 @@
       company was bought by Beam Therapeutics in February 2021.
     </li>
     <li>
-      Analysis of in vivo experiments using Flowjo and Python. Utilized pandas and R to 
-      preprocess and clean high dimensional data for analysis automation, then used TSNE and 
-      UMAP for biodistribution in mouse/rat/non-human primate tissue looking at immune cell distribution. 
-      Allowed for automated analysis using pandas and matplotlib. Reducing time spent on 
-      analysis from 6-8 hours to 1.
+      Analysis of in vivo experiments using Flowjo and Python. Utilized pandas
+      and R to preprocess and clean high dimensional data for analysis
+      automation, then used TSNE and UMAP for biodistribution in
+      mouse/rat/non-human primate tissue looking at immune cell distribution.
+      Allowed for automated analysis using pandas and matplotlib. Reducing time
+      spent on analysis from 6-8 hours to 1.
     </li>
     <li>
-      Enabled successful transfer of high throughput lipid nanoparticle screening platform from 
-      GuideTx to BeamTx through acquisition.
+      Enabled successful transfer of high throughput lipid nanoparticle
+      screening platform from GuideTx to BeamTx through acquisition.
     </li>
   </Workplace>
 </section>
-
-
 
 <style lang="postcss">
   b {
