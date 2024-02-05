@@ -17,8 +17,7 @@
     {
       name: "Personal Website",
       href: "/projects#personal_website",
-      desc: "Personal website hosted on github pages."
-      aside: "Steve Jobs, you inspired me.",
+      desc: "Personal website hosted on github pages.",
     },
   ];
 </script>
@@ -63,9 +62,6 @@
         </div>
         <div>
           <p>{project.desc}</p>
-          {#if project.aside}
-            <aside>{project.aside}</aside>
-          {/if}
         </div>
       </a>
     {/each}
