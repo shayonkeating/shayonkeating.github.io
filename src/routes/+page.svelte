@@ -5,25 +5,19 @@
 
   const featuredProjects = [
     {
-      name: "Climate Change x Housing",
+      name: "RltyChk",
       href: "/projects#climatechangehousing",
-      desc: "Where in the US is soon to be the best place to live.",
+      desc: "How is climate change going to affect buying a home in the future? Let's build the liveability index!",
     },
     {
       name: "Schnar Map",
       href: "/projects#schnarmap",
-      desc: "Find the schanr, hit the pow.",
-    },
-    {
-      name: "LNP Database",
-      href: "/projects#lnpdatabase",
-      desc: "Finding the right LNP can be tricky, but its not",
-      aside: "Built for the Strand Therapeutics LNP discovery Team.",
+      desc: "Find the schanr, hit the pow. Best ski conditions out there exist on this map.",
     },
     {
       name: "Personal Website",
       href: "/projects#personal_website",
-      desc: "Personal website hosted on github pages",
+      desc: "Personal website hosted on github pages. Steve Jobs, you inspired me.",
     },
   ];
 </script>
@@ -44,11 +38,6 @@
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-3">
-    <p>
-      I currently work at <a class="link" href="https://www.strandtx.com"
-        >Strand Therapeutics</a
-      >, a genetic medicine company.
-    </p>
     <p>
       I believe in good, simple open source design that allows for a deeper
       understanding of the question trying to be answered and solved. I love
