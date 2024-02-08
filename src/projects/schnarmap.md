@@ -1,9 +1,12 @@
 ---
 title: Schnar Map
-date: 2024-01-01
+date: 2024-02-07
 repo: shayonkeating/schnarmap
-topics: ["Python", "SQL", "React.js"]
-lead: Find the schnar, hit the pow
+topics: ["Python", "D3.js", "React.js", "Jupyter Notebooks"]
+lead: Personal website for Shayon Keating, maintained regularly
+image: schnartest.png
 ---
 
-Interactive map for hitting the pow
+Where in the US is the best place to hit the slopes right now? Use this Map to find out!
+
+Links: [Github](https://github.com/shayonkeating/schnarmap)
