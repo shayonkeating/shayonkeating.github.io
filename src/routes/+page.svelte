@@ -11,7 +11,7 @@
     },
     {
       name: "Schnar Map",
-      href: "/projects#schnarmap",
+      href: "/projects#schnar_map",
       desc: "Find the schanr, hit the pow. Best ski conditions out there exist on this map.",
     },
     {

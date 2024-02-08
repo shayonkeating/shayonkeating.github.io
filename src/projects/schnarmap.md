@@ -7,6 +7,7 @@ lead: Personal website for Shayon Keating, maintained regularly
 image: schnartest.png
 ---
 
-Where in the US is the best place to hit the slopes right now? Use this Map to find out!
+Where in the US is the best place to hit the slopes right now? Use this Map to
+find out!
 
 Links: [Github](https://github.com/shayonkeating/schnarmap)
