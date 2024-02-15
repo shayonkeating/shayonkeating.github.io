@@ -15,4 +15,4 @@ You can interact with the map and see where the best conditions exist from the
 last 72 hours. It is updated daily to reflect to ongoing change of conditions.
 
 Links: [Github](https://github.com/shayonkeating/schnarmap)
-[Website](https://schnarmap.vercel.app)
+[schnarmap](https://schnarmap.vercel.app)
