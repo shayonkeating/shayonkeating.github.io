@@ -19,6 +19,11 @@
       href: "/projects#personal_website",
       desc: "Personal website hosted on github pages.",
     },
+    {
+      name: "Relational NLP Knowledge Graphs",
+      href: "/projects#relational_know",
+      desc: "NLP from audio/video recording to connect topics together.",
+    },
   ];
 </script>
 
