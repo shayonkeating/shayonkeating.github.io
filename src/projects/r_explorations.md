@@ -4,7 +4,7 @@ date: 2024-02-25
 repo: shayonkeating/r_explorations
 topics: ["R", "SQL", "Data Visualization"]
 lead: Who uses R anymore?
-image: relational_know.png
+image: r_explorations.png
 ---
 
 These little "projects" are used to explore the functionality of R and how
