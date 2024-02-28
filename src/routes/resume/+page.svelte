@@ -60,9 +60,14 @@
     <li>
       <b>Libraries:</b> pandas, matplotlib, numpy, pytorch, tensorflow, scikit-learn
     </li>
-    <li><b>Frameworks:</b> react, node.js, svelte kit, flask</li>
+    <li>
+      <b>Frameworks:</b> react, node.js, next.js, react-native, d3, svelte kit, flask
+    </li>
     <li>
       <b>Developer Tools:</b> Git, Docker, Visual Studio, Jupyter Notebook
+    </li>
+    <li>
+      <b>Data Storage:</b> AWS, Azure, Snowflake
     </li>
   </ul>
 </section>
@@ -83,17 +88,17 @@
       company.
     </li>
     <li>
-      Enhanced R&D data management by creating a nanoparticle tracking database,
-      automated data retrieval using benchling's API, and set up ETL processes
-      to store data in SQL. Conducted analytics using Matplotlib and Pandas, and
-      introduced React.js for internal website development, improving
-      communication between R&D and leadership.
+      Developed a nanoparticle tracking database, enhancing R&D data management
+      through automated data retrieval and ETL processes through AWS Lambda and
+      S3. This initiative supported data-driven decision-making between the
+      executive team and R&D, aligning with the companys product development
+      roadmap.
     </li>
     <li>
-      Automated nanoparticle assays with robotic liquid handlers, collaborated
-      with engineers on the script, and integrated data into Benchling and Azure
-      Datalake using Python. Reduced R&D time from 10 to 2 hours per week and
-      eliminated data quality and integrity issues.
+      Led the design and execution of automated nanoparticle assays using
+      robots, significantly reducing R&D time from 10 to 2 hours a week and
+      fostered a data-centric approach to product development. Integrated data
+      from Benchling into Azure Data Lake.
     </li>
   </Workplace>
 
@@ -109,18 +114,19 @@
       on developing gene and cell therapies using a non viral delivery platform.
     </li>
     <li>
-      Lead screening efforts of a 10,000+ chemical library by automating data
-      analysis for a high-throughput multi-dimensional assay. Utilized pandas,
-      scikit-learn, matplotlib, and PostGreSQL for data processing and developed
-      a Tableau dashboard connected to the SQL database. Achieved a 50% project
-      time reduction through this automated data pipeline.
+      Led screening efforts of a 10,000+ chemical library by automating data
+      analysis for a high-throughput multi-dimensional assay. Utilized jupyter
+      notebooks, pandas, scikit-learn, matplotlib, and PostgreSQL for data
+      processing/schema design and developed a Tableau dashboard connected to
+      the database. Achieved a 50% project time reduction through this automated
+      data pipeline.
     </li>
     <li>
-      Enhanced nanoparticle targeting for specific stem cells by applying
-      gaussian models in Design of Experiments (DOE). Utilized matplotlib,
-      scikit-learn, pyDOE, and PyTorch for regression and normalization to
-      identify the most effective formulation. Achieved a five-fold improvement
-      in lead nanoparticle efficacy.
+      Enhanced nanoparticle targeting by applying different statistical models
+      in Design of Experiments (DOE). Utilized matplotlib, scikit- learn, pyDOE,
+      and PyTorch for regression and normalization to identify the most
+      effective formulation. Achieved a 5-fold improvement in lead product
+      efficacy.
     </li>
   </Workplace>
 
@@ -137,12 +143,11 @@
       company was bought by Beam Therapeutics in February 2021.
     </li>
     <li>
-      Analysis of in vivo experiments using Flowjo and Python. Utilized pandas
-      and R to preprocess and clean high dimensional data for analysis
-      automation, then used TSNE and UMAP for biodistribution in
-      mouse/rat/non-human primate tissue looking at immune cell distribution.
-      Allowed for automated analysis using pandas and matplotlib. Reducing time
-      spent on analysis from 6-8 hours to 1.
+      Analysis of high dimensional data. Utilized pandas, scipy, and R to
+      preprocess and clean data for analysis automation, then used TSNE and UMAP
+      for bio-distribution and immune cell distribution. Allowed for automated
+      triggered analysis running on AWS Lambda and storage with S3. Reduced time
+      for analysis by over 90% and allowed for scalability.
     </li>
     <li>
       Enabled successful transfer of high throughput lipid nanoparticle
