@@ -3,10 +3,7 @@
   import Workplace from "./Workplace.svelte";
 </script>
 
-<Seo
-  title="Shayon Keating – Resume"
-  description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
-/>
+<Seo title="Shayon Keating – Resume" description="Howdy" />
 
 <section class="layout-md py-12">
   <h2 class="heading2">Education</h2>
@@ -58,7 +55,8 @@
       HTML
     </li>
     <li>
-      <b>Libraries:</b> pandas, matplotlib, numpy, pytorch, tensorflow, scikit-learn
+      <b>Libraries:</b> pandas, matplotlib, numpy, pytorch, tensorflow, scikit-learn,
+      pyspark
     </li>
     <li>
       <b>Frameworks:</b> react, node.js, next.js, react-native, d3, svelte kit, flask
@@ -89,10 +87,10 @@
     </li>
     <li>
       Developed a nanoparticle tracking database, enhancing R&D data management
-      through automated data retrieval and ETL processes through AWS Lambda and
-      S3. This initiative supported data-driven decision-making between the
-      executive team and R&D, aligning with the companys product development
-      roadmap.
+      through automated data retrieval of structured and unstructured data via
+      ETL processes, leveraging PySpark alongside AWS Lambda and S3. This
+      initiative supported data-driven decision- making between the executive
+      team and R&D, aligning with the companys product development roadmap.
     </li>
     <li>
       Led the design and execution of automated nanoparticle assays using
