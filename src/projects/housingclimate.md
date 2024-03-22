@@ -16,4 +16,4 @@ enter this brave new world:
 How is climate change going to affect the US in the future?
 
 Links: [Github](https://github.com/shayonkeating/rltychk)
-[RltyChk](http://rltychk.info)
+[RltyChk](https://rltychk.info)
