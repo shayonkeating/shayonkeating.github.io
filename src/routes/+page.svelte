@@ -7,7 +7,7 @@
     {
       name: "RltyChk",
       href: "/projects#climatechangehousing",
-      desc: "How is climate change going to affect buying a home in the future? Let's build the liveability index!",
+      desc: "How is climate change going to affect the US in future? Let's build the liveability index!",
     },
     {
       name: "Schnar Map",
@@ -34,7 +34,7 @@
 
 <p
   class="layout-md text-black text-xl leading-tight font-light mb-16"
-  id="eric-is"
+  id="shayon-is"
 >
   <span class="g">is a</span> scientist<span class="g">,</span>
   engineer<span class="g">, and</span>

@@ -77,7 +77,7 @@
     title="Principal Associate Scientist"
     company="Strand Therapeutics"
     url="https://strandtx.com"
-    dates="April 2023 – February 2024"
+    dates="April 2023 – January 2024"
     location="Boston, MA"
   >
     <li>
@@ -132,7 +132,7 @@
     title="Research Associate"
     company="Guide Therapeutics x Beam Therapeutics"
     url="https://investors.beamtx.com/news-releases/news-release-details/beam-therapeutics-announces-acquisition-guide-therapeutics"
-    dates="January 2020 – January 2022"
+    dates="July 2020 – January 2022"
     location="Atlanta, GA"
   >
     <li>
@@ -150,6 +150,26 @@
     <li>
       Enabled successful transfer of high throughput lipid nanoparticle
       screening platform from GuideTx to BeamTx through acquisition.
+    </li>
+  </Workplace>
+
+  <Workplace
+    title="Clinical Research Associate"
+    company="Emory University"
+    url="https://www.emory.edu/home/index.html"
+    dates="August 2018 – July 2020"
+    location="Atlanta, GA"
+  >
+    <li>
+      Emory University is an academic institution in Atlanta, GA known for their
+      world renowned healthcare system and their cutting edge medical research.
+    </li>
+    <li>
+      Analysis and data pipeline building for transplant immunology. Utilized R
+      and Python for analyzing high-dimensional and spatial transcriptomics in
+      transplant immunology, utilizing dimensionality reduction tools (Seurat,
+      t-SNE, UMAP) and ML models (Random Forests, KNN, K-Means, DBSCAN) within
+      Keras and PyTorch for advanced immune cell biodistribution analysis.
     </li>
   </Workplace>
 </section>
