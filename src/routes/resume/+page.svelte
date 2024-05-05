@@ -65,7 +65,7 @@
       <b>Developer Tools:</b> Git, Docker, Visual Studio, Jupyter Notebook
     </li>
     <li>
-      <b>Data Storage:</b> AWS, Azure, Snowflake
+      <b>Data Tools:</b> AWS, Azure, Snowflake, Cassandra, Kafka
     </li>
   </ul>
 </section>
@@ -90,7 +90,8 @@
       through automated data retrieval of structured and unstructured data via
       ETL processes, leveraging PySpark alongside AWS Lambda and S3. This
       initiative supported data-driven decision- making between the executive
-      team and R&D, aligning with the companys product development roadmap.
+      team and R&D, aligning with the companys product development roadmap and
+      tumor targeting therapeutics.
     </li>
     <li>
       Led the design and execution of automated nanoparticle assays using

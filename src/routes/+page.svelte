@@ -50,9 +50,9 @@
       works.
     </p>
     <p>
-      Other than that, I enjoy rock climbing, skiing, surfing, and running in my
-      spare time. Feel free to talk to me about photography, your love of
-      coffee, or the new JavaScript framework you just used.
+      Other than that, I enjoy rock climbing, skiing, surfing, golfing, and
+      running in my spare time. Feel free to talk to me about photography, your
+      love of coffee, or the new JavaScript framework you just used.
     </p>
   </div>
 
