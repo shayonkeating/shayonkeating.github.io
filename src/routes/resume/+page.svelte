@@ -65,13 +65,27 @@
       <b>Developer Tools:</b> Git, Docker, Visual Studio, Jupyter Notebook
     </li>
     <li>
-      <b>Data Tools:</b> AWS, Azure, Snowflake, Cassandra, Kafka
+      <b>Data Tools:</b> AWS, Azure, Snowflake, Spark
     </li>
   </ul>
 </section>
 
 <section class="layout-md py-12">
   <h2 class="heading2">Professional Experience</h2>
+
+  <Workplace
+    title="Data Engineer"
+    company="Tetrascience"
+    url="https://www.tetrascience.com/"
+    dates="August 2024 – Current"
+    location="Remote, USA"
+  >
+    <li>
+      Tetrascience is a scientific data and ai cloud company that liberates,
+      unifies, and transforms your raw data into more-than-FAIR, AI-native data
+      for scientific use cases.
+    </li>
+  </Workplace>
 
   <Workplace
     title="Principal Associate Scientist"

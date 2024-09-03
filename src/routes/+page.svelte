@@ -47,10 +47,14 @@
       I believe in good, simple open source design that allows for a deeper
       understanding of the question trying to be answered and solved. I love
       diving into a problem and getting to figure out the ins and outs of why it
-      works.
+      works. Currently I work <a
+        href="https://tetrascience.com"
+        target="_blank"
+        rel="noopener noreferrer">@ Tetrascience</a
+      >.
     </p>
     <p>
-      Other than that, I enjoy rock climbing, skiing, surfing, golfing, and
+      Other than that, I enjoy rock climbing, skiing, surfing, hiking and
       running in my spare time. Feel free to talk to me about photography, your
       love of coffee, or the new JavaScript framework you just used.
     </p>
