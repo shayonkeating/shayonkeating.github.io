@@ -1,6 +1,6 @@
 # shayonkeating.github.io
 
-To begin run 
+To begin run
 
 `npm install`
 
