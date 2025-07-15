@@ -95,20 +95,25 @@
     location="Remote, USA"
   >
     <li>
-      Kimberly-Clark Professional is the B2B division of Kimberly-Clark, providing hygiene, 
-      cleaning, and safety products for businesses and workplaces.
+      Kimberly-Clark Professional is the B2B division of Kimberly-Clark,
+      providing hygiene, cleaning, and safety products for businesses and
+      workplaces.
     </li>
     <li>
-      Developed and integrated sustainability metrics for KMB Family Care, enabling real-time tracking 
-      of key sustainability goals. Sourced and cleaned data from SAP, then built an automated ETL pipeline 
-      to feed a Power BI dashboard hosted on Azure. The dashboard provided Directors/Managers with an 
-      at-a-glance view of quarterly sustainability performance.
+      Developed and integrated sustainability metrics for KMB Family Care,
+      enabling real-time tracking of key sustainability goals. Sourced and
+      cleaned data from SAP, then built an automated ETL pipeline to feed a
+      Power BI dashboard hosted on Azure. The dashboard provided
+      Directors/Managers with an at-a-glance view of quarterly sustainability
+      performance.
     </li>
     <li>
-      Analyzed IoT Bluetooth battery data to assess the voltage drain caused by Bluetooth devices on smart 
-      restroom technology. Implemented a batch processing pipeline using Kafka for data ingestion and Spark 
-      for processing. Developed a scalable solution using Azure Data Lake for storage and PostgreSQL for 
-      storing and querying device IDs, enabling determination of voltage drain per update.
+      Analyzed IoT Bluetooth battery data to assess the voltage drain caused by
+      Bluetooth devices on smart restroom technology. Implemented a batch
+      processing pipeline using Kafka for data ingestion and Spark for
+      processing. Developed a scalable solution using Azure Data Lake for
+      storage and PostgreSQL for storing and querying device IDs, enabling
+      determination of voltage drain per update.
     </li>
   </Workplace>
 
@@ -125,15 +130,16 @@
       company.
     </li>
     <li>
-      Developed a drug product tracking database, enhancing R&D data management 
-      through automated data retrieval of structured and unstructured data via 
-      ETL processes, leveraging Lambda and S3. This initiative supported data-driven 
-      decision-making between the executive team and R&D, aligning with the company’s 
-      product development roadmap for tumor targeting therapeutics. 
+      Developed a drug product tracking database, enhancing R&D data management
+      through automated data retrieval of structured and unstructured data via
+      ETL processes, leveraging Lambda and S3. This initiative supported
+      data-driven decision-making between the executive team and R&D, aligning
+      with the company’s product development roadmap for tumor targeting
+      therapeutics.
     </li>
     <li>
-       Developed an internal app on top of the drug product database using Next.js, 
-       enabling real-time tracking of metrics and visualizations.
+      Developed an internal app on top of the drug product database using
+      Next.js, enabling real-time tracking of metrics and visualizations.
     </li>
     <li>
       Led the design and execution of automated nanoparticle assays using
@@ -155,11 +161,12 @@
       on developing gene and cell therapies using a non viral delivery platform.
     </li>
     <li>
-      Led screening efforts of a 10,000+ chemical library by automating data analysis 
-      for a high-throughput multi-dimensional assay. Utilized jupyter notebooks, pandas, 
-      scikit-learn, matplotlib, and PostgreSQL for data processing/schema design and 
-      developed a Tableau dashboard connected to the database. Cut the project time in 
-      half using this method and helped scientists replace (multiple) excel files.
+      Led screening efforts of a 10,000+ chemical library by automating data
+      analysis for a high-throughput multi-dimensional assay. Utilized jupyter
+      notebooks, pandas, scikit-learn, matplotlib, and PostgreSQL for data
+      processing/schema design and developed a Tableau dashboard connected to
+      the database. Cut the project time in half using this method and helped
+      scientists replace (multiple) excel files.
     </li>
     <li>
       Enhanced nanoparticle targeting by applying different statistical models
@@ -183,12 +190,12 @@
       company was bought by Beam Therapeutics in February 2021.
     </li>
     <li>
-      Built a high-throughput genomic analysis pipeline using Nextflow, orchestrated 
-      via Lambda and S3 triggers. Leveraged tools such as Samtools, Bowtie, Novoalign, 
-      and Jellyfish for efficient read alignment and transcriptomic analysis. 
-      Cut weekly experiment analysis time by over 50% and improved accuracy in 
-      identifying high-efficacy novel lipids, directly supporting GuideTx’s core technology 
-      platform.
+      Built a high-throughput genomic analysis pipeline using Nextflow,
+      orchestrated via Lambda and S3 triggers. Leveraged tools such as Samtools,
+      Bowtie, Novoalign, and Jellyfish for efficient read alignment and
+      transcriptomic analysis. Cut weekly experiment analysis time by over 50%
+      and improved accuracy in identifying high-efficacy novel lipids, directly
+      supporting GuideTx’s core technology platform.
     </li>
     <li>
       Enabled successful transfer of high throughput lipid nanoparticle
