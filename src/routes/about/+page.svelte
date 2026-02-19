@@ -34,8 +34,8 @@
         >.
       </p>
       <p class="text-m mt-4">
-        I currently live in Denver, Colorado with my partner Mary and my
-        two cats (Jasper and Tabasco).
+        I currently live in Denver, Colorado with my partner Mary and my two
+        cats (Jasper and Tabasco).
       </p>
     </div>
 

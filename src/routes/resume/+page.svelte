@@ -51,8 +51,7 @@
   <h2 class="heading2">Technical Skills</h2>
   <ul>
     <li>
-      <b>Languages:</b> Python, SQL, Linux/Bash, Javascript, Typescript, CSS,
-      HTML
+      <b>Languages:</b> Python, SQL, Linux/Bash, Javascript, Typescript, CSS, HTML
     </li>
     <li>
       <b>Libraries:</b> pandas, matplotlib, numpy, pytorch, tensorflow, scikit-learn,
