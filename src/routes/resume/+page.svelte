@@ -51,7 +51,7 @@
   <h2 class="heading2">Technical Skills</h2>
   <ul>
     <li>
-      <b>Languages:</b> Python, R, SQL, Linux/Bash, Javascript, Typescript, CSS,
+      <b>Languages:</b> Python, SQL, Linux/Bash, Javascript, Typescript, CSS,
       HTML
     </li>
     <li>
@@ -74,7 +74,7 @@
   <h2 class="heading2">Professional Experience</h2>
 
   <Workplace
-    title="Data Engineer"
+    title="Data Engineer III"
     company="Tetrascience"
     url="https://www.tetrascience.com/"
     dates="July 2024 – Current"

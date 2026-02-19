@@ -34,14 +34,14 @@
         >.
       </p>
       <p class="text-m mt-4">
-        I currently live in San Diego, California with my partner Mary and my
+        I currently live in Denver, Colorado with my partner Mary and my
         two cats (Jasper and Tabasco).
       </p>
     </div>
 
     <div class="flex-shrink-0 w-full md:w-1/2">
       <img
-        src="/IMG_0215.jpg"
+        src="/1765391797624.jpg"
         alt="Shayon Keating"
         class="w-full h-auto rounded-xl"
       />
