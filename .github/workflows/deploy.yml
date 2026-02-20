@@ -18,11 +18,14 @@ jobs:
 
       - run: npm ci
 
-      # 👇 REQUIRED
+      - run: npm install --save-dev @types/node @typescript-eslint/types
+
       - run: npx svelte-kit sync
 
       - run: npm run check
+
       - run: npm run lint
+      
       - run: npm run build
 
       - uses: JamesIves/github-pages-deploy-action@4.1.8
