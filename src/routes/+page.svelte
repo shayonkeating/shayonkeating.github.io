@@ -36,8 +36,8 @@
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="shayon-is"
 >
-  <span class="g">is a</span> scientist<span class="g">,</span>
-  engineer<span class="g">, and</span>
+  <span class="g">is a</span> engineer<span class="g">,</span>
+  scientist<span class="g">, and</span>
   researcher<span class="g">.</span>
 </p>
 
