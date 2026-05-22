@@ -29,7 +29,7 @@
 
 <Seo
   title="Shayon Keating"
-  description="Scientist, engineer, and researcher."
+  description="Engineer, scientist, and researcher."
 />
 
 <p
