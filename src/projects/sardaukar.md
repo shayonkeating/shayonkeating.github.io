@@ -8,8 +8,8 @@ image: sardaukar.png
 ---
 
 Sardaukar is a rust based CLI tool that will silently compresses the input for
-every prompt before it hits your AI agent. It intcerepts prompt, strips
-unncessary softerns, articles, and truncates technical vocabulary.
+every prompt before it hits your AI agent. It intercepts your prompt, strips
+unncessary softeners, strips articles, and truncates technical vocabulary.
 
 A 30-50% reduction in input token usage!
 
