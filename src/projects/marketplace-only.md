@@ -1,5 +1,5 @@
 ---
-title: RltyChk
+title: Marketplace Only
 date: 2026-04-01
 repo: shayonkeating/marketplace-only
 topics: ["Swift"]
